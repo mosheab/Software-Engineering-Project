@@ -1,7 +1,6 @@
-Software Engineering Project
+Classifying Medical Images
 ============================
 
-Classifying Medical Images
 
 Characterization and classification of medical images is an important task for achieving high performance search engine of scientific papers in medicine and life sciences.
 The purpose of this project is to construct a model that uses methods for classifiy images from the biomedical field in a hierarchical way which will allow the retrieval of information for research purposes and thus allows reducing the search space .
