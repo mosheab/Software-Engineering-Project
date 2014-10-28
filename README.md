@@ -1,4 +1,4 @@
-Software-Engineering-Project
+Software Engineering Project
 ============================
 
 Classifying Medical Images
