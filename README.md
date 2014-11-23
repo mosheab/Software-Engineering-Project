@@ -8,5 +8,5 @@ The classification includes a distinction between images diagnostics in radiolog
 <br>    Creating an automatic medical images classifier is a complex task, as its accuracy is measured by the quality and number of features that we strive to get in our model.
 
 This project is a part of the B.Sc. in Software Engineering from "Azrieli - College of Engineering Jerusalem".
-[Project Calendar] (http://projects.jce.ac.il/moodle/mod/wiki/view.php?id=6)
-<br>[Project assignment] (https://github.com/mosheab/Software-Engineering-Project/milestones)
+<br>[Project Calendar] (http://projects.jce.ac.il/moodle/mod/wiki/view.php?id=6)
+<br>[Project assignments] (https://github.com/mosheab/Software-Engineering-Project/milestones)
