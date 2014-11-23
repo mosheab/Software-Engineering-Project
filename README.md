@@ -9,4 +9,4 @@ The classification includes a distinction between images diagnostics in radiolog
 
 This project is a part of the B.Sc. in Software Engineering from "Azrieli - College of Engineering Jerusalem".
 [Project Calendar] (http://projects.jce.ac.il/moodle/mod/wiki/view.php?id=6)
-[Project assignment[ (https://github.com/mosheab/Software-Engineering-Project/milestones)
+<br>[Project assignment] (https://github.com/mosheab/Software-Engineering-Project/milestones)
